@@ -2,3 +2,4 @@ git demo with commit 1
 
 git demo with commit 2
 
+git demo with commit 3
